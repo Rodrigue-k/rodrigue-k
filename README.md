@@ -30,7 +30,7 @@
 </p>
 
 ## Écriture
-- Je partage régulièrement des articles sur [LinkedIn](https://www.linkedin.com/in/rodrigue-koudakpo/).
+- Je partage régulièrement sur [LinkedIn](https://www.linkedin.com/in/rodrigue-koudakpo/).
 
 ## Contactez-moi
 - **LinkedIn** : [rodrigue-koudakpo](https://linkedin.com/in/rodrigue-koudakpo)
