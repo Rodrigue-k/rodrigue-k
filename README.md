@@ -42,5 +42,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigue-k&show_icons=true&theme=default" alt="Statistiques GitHub" />
 
 
-## Fait amusant
-- "Un voyage de mille lieues commence par un seul pas." - Lao Tzu
+
+"Un voyage de mille lieues commence par un seul pas." - Lao Tzu
