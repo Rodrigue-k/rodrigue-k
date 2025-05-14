@@ -31,7 +31,7 @@
 </p>
 
 
-## Écriture
+## Social
 - Je partage régulièrement sur [LinkedIn](https://www.linkedin.com/in/rodrigue-koudakpo/).
 
 ## Contactez-moi
