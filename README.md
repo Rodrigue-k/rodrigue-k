@@ -3,7 +3,7 @@
 ## À propos de moi
 - Développeur passionné par la création d’applications, de jeux et de programmes utiles.
 - Actuellement en train de travailler sur [Woez](https://github.com/Koudatek/woez).
-- En apprentissage de **React** et **Node.js**.
+- En apprentissage de **Réseau**.
 - N’hésitez pas à me poser des questions sur **Flutter** !
 
 ## Compétences
